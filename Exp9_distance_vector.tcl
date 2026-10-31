@@ -86,3 +86,6 @@ $ns at 5.0 "finish"
 
 # Run simulation
 $ns run
+
+output:
+exec nam -a out.nam &
