@@ -27,3 +27,15 @@ while True:
 conn.close()
 server.close()
 print("Chat Server closed.")
+
+output:
+Chat Server is waiting for a client...
+Client connected: ('127.0.0.1', 54322)
+Type 'exit' to close the chat.
+Client: Hello!
+You: Hi there!
+Client: How are you?
+You: Doing well, thank you.
+Client: exit
+Client disconnected.
+Chat Server closed.
