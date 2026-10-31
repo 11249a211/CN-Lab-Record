@@ -92,3 +92,7 @@ puts "CBR interval = [$cbr set interval_]"
 
 # Run simulation
 $ns run
+
+output:
+CBR packet size = 1000
+CBR interval = 0.008
