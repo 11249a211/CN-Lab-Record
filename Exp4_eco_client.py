@@ -21,3 +21,12 @@ while True:
 
 client_socket.close()
 print("Client closed.")
+
+output:
+Connected to Echo Server.
+Enter message (type 'exit' to quit): Hello Server!
+Echo from Server: Hello Server!
+Enter message (type 'exit' to quit): Testing TCP connection
+Echo from Server: Testing TCP connection
+Enter message (type 'exit' to quit): exit
+Client closed.
