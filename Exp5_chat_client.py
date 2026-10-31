@@ -23,3 +23,13 @@ while True:
 
 client.close()
 print("Chat Client closed.")
+
+output:
+Connected to Chat Server!
+Type 'exit' to close the chat.
+You: Hello!
+Server: Hi there!
+You: How are you?
+Server: Doing well, thank you.
+You: exit
+Chat Client closed.
