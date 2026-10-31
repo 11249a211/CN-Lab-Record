@@ -24,3 +24,10 @@ while True:
 conn.close()
 server_socket.close()
 print("Server closed.")
+
+output:
+Echo Server is waiting for a connection...
+Connected by: ('127.0.0.1', 54321)
+Client: Hello Server!
+Client: Testing TCP connection
+Server closed.
