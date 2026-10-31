@@ -39,3 +39,7 @@ def file_transfer_client():
 
 if __name__ == '__main__':
     file_transfer_client()
+
+output:
+Enter the filename to send: sample.txt
+File 'sample.txt' sent successfully.
