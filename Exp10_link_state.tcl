@@ -70,3 +70,6 @@ $ns at 2.0 "$cbr1 start"
 $ns at 45 "finish"
 
 $ns run
+
+output:
+exec nam thro.nam &
